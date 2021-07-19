@@ -8,6 +8,17 @@ A python GUI base application which uses Tkinter for interactions.
 
 ## Start game
 - `python3 game.py`
+- `1 for player vs computer`
+- `2 for computer vs computer`
+- `3 for exit app`
+
+After selecting game mode, a window will open where user can play game.
+Three buttons will be visible in the window.
+1. Play - Starts game
+2. Reset - resets game output
+3. Exit - closes game window
+
+For Player vs Computer game mode, a user input textbox is provided, through which user can enter 1->rock, 2->paper, 3->scissors, all other invalid inputs.
 
 ## What Is Rock Paper Scissors?
 We may have played rock paper scissors before. Maybe you’ve used it to decide who pays for dinner or who gets first choice of players for a team.
